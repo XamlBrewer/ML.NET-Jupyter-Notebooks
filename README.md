@@ -1,7 +1,13 @@
 # ML.NET-Jupyter-Notebooks
 
-A collection of Jupyter Notebooks covering some ML.NET scenarios. Any resemblance with https://github.com/XamlBrewer/UWP-MachineLearning-Sample is not a coincidence.
+A collection of C# Jupyter Notebooks covering some ML.NET scenarios inspired by https://github.com/XamlBrewer/UWP-MachineLearning-Sample.
 
+It is a **work in progress**, but sofar we can offer the following samples:
 
-
-(WORK IN PROGRESS)
+* Building and Visualizing Models:
+  * Binary Classification
+  * Multiclass Classification
+  * Recommendation using Matrix Factorization
+* Data Analysis:
+  * Distribution analysis using Box Plots
+  * Correlation analysis using Heatmaps
