@@ -11,3 +11,7 @@ It is a **work in progress**, but sofar we can offer the following samples:
 * Data Analysis:
   * Distribution analysis using Box Plots
   * Correlation analysis using Heatmaps
+
+Here's a screenshot of one of these:
+
+![Screenshot](Assets/MLNet_Jupyter.png?raw=true)
