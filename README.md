@@ -9,6 +9,8 @@ It is a **work in progress**, but sofar we can offer the following samples:
   * Binary Classification
   * Multiclass Classification
   * Recommendation using Matrix Factorization
+  * Recommendation using Field-Aware Factorization Machine
+
 * Data Analysis:
   * Distribution analysis using Box Plots
   * Correlation analysis using Heatmaps
