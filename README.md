@@ -8,6 +8,7 @@ It is a **work in progress**, but sofar we can offer the following samples:
   * Clustering
   * Binary Classification
   * Multiclass Classification
+  * Regression
   * Recommendation using Matrix Factorization
   * Recommendation using Field-Aware Factorization Machine
 
